@@ -87,4 +87,11 @@ footer {
     .sidebar {
         width: 100%; /* Cambia el ancho a 100% en pantallas más pequeñas */
     }
+
+    .main-content {
+        float: left;
+        width: 100%;
+        padding: 20px;
+    }
+    
 }
