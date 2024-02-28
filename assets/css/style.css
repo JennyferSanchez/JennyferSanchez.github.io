@@ -24,6 +24,10 @@ header {
     text-align: center;
 }
 
+.center {
+    text-align: justify;
+  }
+
 .navbar {
     background-color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente para resaltar la barra de navegación */
 }
